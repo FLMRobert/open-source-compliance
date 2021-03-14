@@ -7,5 +7,7 @@ This repo is a collection of basic information about
 - Open Souce Licenses
 - Open Source Compliance
 
-[Introduction to Open Source Software](https://github.com/FLMRobert/open-source-compliance/blob/main/introduction_EN.md)
-[Open Source Compliance Links](https://github.com/FLMRobert/open-source-compliance/blob/main/awesome-open-source-compliance.md)
+# Table of Contents
+
+- [Introduction to Open Source Software](https://github.com/FLMRobert/open-source-compliance/blob/main/introduction_EN.md)
+- [Open Source Compliance Links](https://github.com/FLMRobert/open-source-compliance/blob/main/awesome-open-source-compliance.md)

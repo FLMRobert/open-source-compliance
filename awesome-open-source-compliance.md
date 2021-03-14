@@ -1,4 +1,4 @@
-# Awesome OpenSource Compliance Resources
+# OpenSource Compliance Resources
 
 ## Basics
 

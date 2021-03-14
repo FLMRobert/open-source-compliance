@@ -1,6 +1,6 @@
 # Open Souce Compliance
 
-[German version of this page](https://github.com/FLMRobert/open-source-compliance/blob/main/README_GER.md)
+[English version of this page](https://github.com/FLMRobert/open-source-compliance/blob/main/README.md)
 
 Dieses Repo ist eine Sammlung von grundlegenden Informationen zu den Themen
 - Open Source Software
